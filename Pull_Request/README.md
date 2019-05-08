@@ -1,7 +1,7 @@
 # Project Title
 
 One Paragraph of project description goes here.
-This is a pull request for 
+This demonstrates a pull request for CNA 340 IT Project Management.
 
 ## Getting Started
 
@@ -22,3 +22,4 @@ The error returned was [error]. I solved this by [changes] on [lines].
 
 ## Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thanks to Zak.
