@@ -2,7 +2,6 @@
 
 One Paragraph of project description goes here.
 This demonstrates a pull request for CNA 340 IT Project Management.
-Hello
 
 ## Getting Started
 
