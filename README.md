@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+One Paragraph of project description goes here.
 
 ## Getting Started
 
@@ -20,13 +20,13 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python demo.py
+python cna_demo.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python demo.py test.txt
+python cna_demo.py test.txt
 ```
 
 ## Thanks
