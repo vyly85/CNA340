@@ -1,33 +1,28 @@
-# Project Title
+# Basic Ecommerce Website
 
-One Paragraph of project description goes here.
+Login using username and password, and sorting book by Category.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will set an Ecommerce website on your local machine for Demo.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+This project requires Python version 3 to run, with Flask. The commands below will upgrade OS and install Prerequisites.
 
 ```
 sudo apt update
 sudo apt upgrade
-sudo apt install package1 package2
+sudo apt install Flask
 ```
 
 ## Running
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
+python main.py
 ```
 
-Add any additional ways to run the program below
-
-```
-python cna_demo.py test.txt
-```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you Justin and Sarmad for their help editing the code.
